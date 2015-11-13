@@ -6,6 +6,7 @@ Uses  [Microsoft’s state-of-the-art cloud-based spelling algorithms](https://w
   <img src="https://github.com/soderlind/poxford-spellchecker/blob/master/spellcheck.gif?raw=true" alt="demo" style="border: solid 2px #ccc;" />
 </p>
 
-This is a proof of concept, it's not without bugs. Feel free to fork the repository and make it better!
+Remember to add your API key to [poxford-spellchecker-rpc.php](poxford-spellchecker-rpc.php#L10). You get the key when you [sign up](https://www.projectoxford.ai/Account/Login?callbackUrl=/Subscription/Index?productId=/products/557a4bd3e597ed1a5886b8d5) at www.projectoxford.ai
 
-Remember to add your API key to [poxford-spellchecker-rpc.php](poxford-spellchecker-rpc.php#L10). You get the key when you [sign up](https://www.projectoxford.ai/Account/Login?callbackUrl=/Subscription/Index?productId=/products/557a4bd3e597ed1a5886b8d5) at projectoxford.ai
+
+This is a proof of concept, it's not without bugs. Feel free to [fork the repository](https://github.com/soderlind/poxford-spellchecker#fork-destination-box) and make it better!
