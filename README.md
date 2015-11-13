@@ -6,7 +6,9 @@ Uses  [Microsoft’s state-of-the-art cloud-based spelling algorithms](https://w
   <img src="https://github.com/soderlind/poxford-spellchecker/blob/master/spellcheck.gif?raw=true" alt="demo" style="border: solid 2px #ccc;" />
 </p>
 
-Remember to add your API key to [poxford-spellchecker-rpc.php](poxford-spellchecker-rpc.php#L10). You get the key when you [sign up](https://www.projectoxford.ai/Account/Login?callbackUrl=/Subscription/Index?productId=/products/557a4bd3e597ed1a5886b8d5) at www.projectoxford.ai
+Remember to add your API key to [poxford-spellchecker-rpc.php](poxford-spellchecker-rpc.php#L10). You'll get the free* key when you [sign up](https://www.projectoxford.ai/Account/Login?callbackUrl=/Subscription/Index?productId=/products/557a4bd3e597ed1a5886b8d5) at www.projectoxford.ai
+>*The free offer provides access to the Spell Check APIs to detect and recognize a range of spelling errors. With this free plan, calling to the Spell Check APIs is limited to 7 transactions per minute and 5,000 transactions per month.
+
 
 poxford-spellchecker-rpc.php [requires HTTP_Request2](https://github.com/soderlind/poxford-spellchecker/blob/master/poxford-spellchecker-rpc.php#L20), install it using `pear install HTTP_Request2` 
 
