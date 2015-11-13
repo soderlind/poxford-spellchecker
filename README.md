@@ -7,3 +7,5 @@ Uses  [Microsoft’s state-of-the-art cloud-based spelling algorithms](https://w
 </p>
 
 This is a proof of concept, it's not without bugs. Feel free to fork the repository and make it better!
+
+Remember to add your API key to [poxford-spellchecker-rpc.php](poxford-spellchecker-rpc.php#L10). You get the key when you [sign up](https://www.projectoxford.ai/Account/Login?callbackUrl=/Subscription/Index?productId=/products/557a4bd3e597ed1a5886b8d5) at projectoxford.ai
