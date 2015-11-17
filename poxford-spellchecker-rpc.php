@@ -3,8 +3,7 @@
 
 Read about the spell check API: https://www.projectoxford.ai/spellcheck
 
-The free offer provides access to the Spell Check APIs to detect and recognize a range of spelling errors. 
-With this free plan, calling to the Spell Check APIs is limited to 7 transactions per minute and 5,000 transactions per month.
+The free offer provides access to the Spell Check APIs to detect and recognize a range of spelling errors. With this free plan, calling to the Spell Check APIs is limited to 7 transactions per minute and 5,000 transactions per month.
 
  */
 define('POXFORD_SPELLCHECK_KEY','your-api-key'); // subscribe to get your key: https://www.projectoxford.ai/spellcheck
