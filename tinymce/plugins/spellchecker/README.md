@@ -1,0 +1,1 @@
+spellchecker plugin is part of the [TinyMCE 4.2.8 development package](http://www.tinymce.com/develop/changelog/?type=tinymce), You can download it from http://www.tinymce.com/download/download.php
